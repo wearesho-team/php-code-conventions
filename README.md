@@ -1,7 +1,3 @@
-# Translations
-
-- 🇺🇸 **[English](https://github.com/roistat/php-code-conventions/blob/master/README_en.md)** (work is in progress, pull requests are welcome)
-
 # Содержание
   1. [Введение](#Введение)
   0. [Ценности](#Ценности)
